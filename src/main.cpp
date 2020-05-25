@@ -711,7 +711,7 @@ int main(int argc, char *argv[])
 	application->initMaterials(resourceDir);
 	application->initScene();
 	application->initGeom(resourceDir, config["map_values"]["map_name"].GetString());
-	application->initAudio();
+	//application->initAudio();
 	initGUI(windowManager->getHandle());
 	initShadow(); // OpenGL calls must be on main thread
 	setupParticleSystem(); // OpenGL calls must be on main thread
