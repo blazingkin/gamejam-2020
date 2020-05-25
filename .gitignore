@@ -1,0 +1,12 @@
+Build/*
+build/*
+.vscode/
+.vs/
+DiseaseTowerDefense.sln
+DiseaseTowerDefense.vcxproj
+DiseaseTowerDefense.vcxproj.filters
+DiseaseTowerDefense.vcxproj.user
+Debug/*
+
+resources/maps/Generate/__pycache__/*
+resources/maps/Generate/*.png

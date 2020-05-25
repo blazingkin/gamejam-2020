@@ -1,0 +1,46 @@
+{
+  "odds": 100,
+  "map_values": {
+    "map_size": 350,
+    "map_name": "gj2020",
+    "light_location": {
+      "x": 0,
+      "y": 33,
+      "z": -75
+    }
+  },
+  "player_position": {
+    "x": -130,
+    "y": 5,
+    "z": 0
+  },
+  "player_size": {
+    "x": 2,
+    "y": 10,
+    "z": 15
+  },
+  "incoming_object": {
+    "velocity": {
+      "x": -50,
+      "z": 0
+    },
+    "size": {
+      "x": 8,
+      "y": 8,
+      "z": 8
+    },
+    "cooldown": 0.013
+  },
+  "camera": {
+    "offset_x": 5.0,
+    "offset_y": -4.75,
+    "offset_z": 0.0
+  },
+  "scene": {
+    "outside_x": 1,
+    "outside_z": 2,
+    "inside_grid": 0,
+    "num_grid_cells": 250
+  },
+  "win_condition_luck": 75
+}
